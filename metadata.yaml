@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25590
     wikipedia: http://en.wikipedia.org/wiki/James_Brooke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22903#The-Expedition-to-Borneo-of-H.M.S.-DidoFor-the-Suppression-of-Piracy
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2007-10-06'
 gutenberg_type: Text
