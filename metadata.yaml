@@ -1,0 +1,39 @@
+_repo: The-Expedition-to-Borneo-of-H.M.S.-DidoFor-the-Suppression-of-Piracy_22903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Keppel, Henry, Sir
+    birthdate: 1809
+    deathdate: 1904
+    gutenberg_agent_id: '25589'
+    url: http://www.gutenberg.org/2009/agents/25589
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Keppel
+  - agent_name: James, Rajah of Sarawak
+    alias: Brooke, James
+    birthdate: 1803
+    deathdate: 1868
+    gutenberg_agent_id: '25590'
+    url: http://www.gutenberg.org/2009/agents/25590
+    wikipedia: http://en.wikipedia.org/wiki/James_Brooke
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Borneo'
+- !lcc 'DS'
+- !lcsh 'Borneo -- Description and travel'
+- !lcsh 'Borneo -- History'
+title: 'The Expedition to Borneo of H.M.S. Dido
+
+  For the Suppression of Piracy'
+url: http://www.gutenberg.org/ebooks/22903
